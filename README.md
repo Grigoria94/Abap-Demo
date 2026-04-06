@@ -21,8 +21,8 @@ Version Control: GitHub & abapGit
 Platform: SAP BTP / ABAP Environment
 
 # How to Use
-Clone this repository into your SAP system using abapGit.
+1) Clone this repository into your SAP system using abapGit.
 
-Activate the class 
+2) Activate the class 
 
-Run the class as an ABAP Application (Console) by pressing F9 in Eclipse.
+3) Run the class as an ABAP Application (Console) by pressing F9 in Eclipse.
